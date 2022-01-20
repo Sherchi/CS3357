@@ -4,6 +4,9 @@ School work and additional add-ons to the school project that I had implemented 
 Was tasked to create a chat room using python and no usage of threads. 
 Was to include commands usable for user, follow list, graceful exits, and error handling. 
 
+
+Was really fun to make the TCP version, decided to try UDP as well
+
 UDP and TCP connections using Python's Sockets library and Selectors Library.
 
 TCP Connection version had error handling done in a very primitive way,
